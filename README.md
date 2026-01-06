@@ -1,12 +1,3 @@
-Great — thanks for sharing the content 👍
-Below is your **clean, properly formatted `README.md` in Markdown**, ready to paste directly into your repo.
-
-I’ve kept it **formal, clear, and structured**, and avoided unnecessary filler (matching your preference).
-You can copy everything inside the block and save it as `README.md`.
-
----
-
-````markdown
 # Asana RL Environment: High-Quality Seed Data Generator
 
 This repository contains a robust data generation pipeline designed to create realistic, enterprise-scale seed data for a Reinforcement Learning (RL) environment simulating Asana.
@@ -54,6 +45,7 @@ asana-simulation/
         ├── llm_client.py
         └── helpers.py
 ```
+
 ````
 
 ---
@@ -182,3 +174,4 @@ Created for **Research Scientist Internship Assignment — January 2026**.
 
 
 ```
+````
