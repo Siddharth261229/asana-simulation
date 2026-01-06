@@ -1,0 +1,22 @@
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# SQLite DB / output
+output/
+*.sqlite
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+EOF
